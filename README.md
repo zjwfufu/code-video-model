@@ -11,5 +11,4 @@ The original page content, videos, gallery and interactive scenes are retained.
 Internal project homepage links point to this mirror. The technical report is
 copied unchanged. This repository is independent of the personal blog.
 
-Pushes to `main` run `.github/workflows/pages.yml`, which packages the public
-site with `scripts/build_public_site.py` and deploys it using GitHub Pages.
+The complete static website is published directly from the main branch root using GitHub Pages.
